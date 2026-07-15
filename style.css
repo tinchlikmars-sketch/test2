@@ -1,0 +1,40 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    color: black;
+}
+
+body {
+    width: 1440px;
+    background: #000;
+    margin: 0 auto;
+}
+
+header {
+    height: 1024px;
+    background: url(./img/image\ 1.png) no-repeat;
+    background-size: cover;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+
+    justify-content: space-between;
+}
+
+nav div {
+    display: flex;
+    align-items: center;
+}
+.logo{
+display: flex;
+justify-content: ;
+align-items: center;
+margin-left: -25%;
+margin: 0%;
+}
+
